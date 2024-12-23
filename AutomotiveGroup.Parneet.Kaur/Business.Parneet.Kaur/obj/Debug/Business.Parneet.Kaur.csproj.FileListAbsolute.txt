@@ -1,0 +1,18 @@
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\02 success\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\bin\Debug\Business.Parneet.Kaur.dll
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\02 success\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\bin\Debug\Business.Parneet.Kaur.pdb
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\02 success\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\obj\Debug\Business.Parneet.Kaur.csproj.AssemblyReference.cache
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\02 success\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\obj\Debug\Business.Parneet.Kaur.csproj.CoreCompileInputs.cache
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\02 success\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\obj\Debug\Business.Parneet.Kaur.dll
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\02 success\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\obj\Debug\Business.Parneet.Kaur.pdb
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\04\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\bin\Debug\Business.Parneet.Kaur.dll
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\04\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\bin\Debug\Business.Parneet.Kaur.pdb
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\04\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\obj\Debug\Business.Parneet.Kaur.csproj.AssemblyReference.cache
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\04\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\obj\Debug\Business.Parneet.Kaur.csproj.CoreCompileInputs.cache
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\04\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\obj\Debug\Business.Parneet.Kaur.dll
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\04\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\obj\Debug\Business.Parneet.Kaur.pdb
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\05\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\bin\Debug\Business.Parneet.Kaur.dll
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\05\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\bin\Debug\Business.Parneet.Kaur.pdb
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\05\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\obj\Debug\Business.Parneet.Kaur.csproj.AssemblyReference.cache
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\05\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\obj\Debug\Business.Parneet.Kaur.csproj.CoreCompileInputs.cache
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\05\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\obj\Debug\Business.Parneet.Kaur.dll
+C:\PARNEET UPPAL\01 RRC_POLYTECH_DATABASE\TERM_02\ADEV\PROJECTS\Assignments\05\AutomotiveGroup.Parneet.Kaur\Business.Parneet.Kaur\obj\Debug\Business.Parneet.Kaur.pdb
